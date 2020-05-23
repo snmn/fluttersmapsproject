@@ -39,8 +39,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return new MaterialApp(
       theme: ThemeData(
-          primarySwatch: Colors.deepPurple,
-          fontFamily: 'Poppins'
+
+          fontFamily: 'JosefinSans'
       ),
       debugShowCheckedModeBanner: false,
 
